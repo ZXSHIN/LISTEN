@@ -12,6 +12,8 @@
 Tool OSINT dan Google Dorking berbasis desktop menggunakan Python + CustomTkinter.
 
 ---
+## tambahkan apikey shodan
+|--config.py
 
 ## Cara Menjalankan
 
